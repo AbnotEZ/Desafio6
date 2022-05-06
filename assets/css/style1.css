@@ -1,0 +1,30 @@
+body {
+    background: url(../imgs/fondo.jpeg);
+    background-size: cover;
+   
+}
+
+.titulohome {
+margin-top: 15%;
+}
+
+.title1{
+   vertical-align: middle;
+    text-align: center;
+    font-size: 45px;
+}
+nav {
+    opacity: 0.9;
+}
+
+footer {
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    opacity: 0.9;
+    position: absolute;
+}
+.icon {
+    cursor: pointer;
+
+}
